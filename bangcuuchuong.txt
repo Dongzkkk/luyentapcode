@@ -3,3 +3,5 @@ Bangcuuchuong2
 =======
 bangcuuchuong3
 >>>>>>> bangcuuuchuong3
+=======
+>>>>>>> bangcuuchuong2
